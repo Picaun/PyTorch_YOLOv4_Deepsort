@@ -2,7 +2,7 @@
 
 ## **就这样吧，哈哈哈**	:relaxed:  
 
-![](https://img.shields.io/badge/author-Picaun-orange)
+![](https://img.shields.io/badge/author-Picaun-orange) ![](https://img.shields.io/badge/school-SUSE-green) ![](https://img.shields.io/badge/grade-2019-blue)
 
 ## 目录  
  - [前言](#前言)
