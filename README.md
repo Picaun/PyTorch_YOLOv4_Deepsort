@@ -1,6 +1,6 @@
 # YOLO_for_Pedestrian_Detection  
 
-**就这样吧，哈哈哈**:bush:  
+**就这样吧，哈哈哈**	:relaxed:  
 
 ![](https://img.shields.io/badge/author-Picaun-orange)
 
